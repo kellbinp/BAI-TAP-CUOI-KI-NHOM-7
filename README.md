@@ -1,4 +1,4 @@
-📊 Hệ Thống Phân Tích Đồ Thị - Nhóm 7 (UTH)
+📊 Hệ Thống Phân Tích Đồ Thị - Nhóm 7
 Chào mừng bạn đến với dự án Hệ Thống Phân Tích Đồ Thị được thực hiện bởi Nhóm 7. Đây là một ứng dụng Python mạnh mẽ, hỗ trợ biểu diễn và thực thi các thuật toán lý thuyết đồ thị kinh điển với giao diện trực quan sinh động.
 
 🌟 Tính năng chính
